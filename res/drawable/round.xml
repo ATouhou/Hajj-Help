@@ -1,0 +1,19 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <stroke android:radius="10dp" />
+
+    <solid android:color="@color/left_request_color" />
+
+    <stroke
+        android:width="1.0dip"
+        android:color="#91aed3" />
+
+    <size android:height="30dp" />
+
+    <corners
+        android:bottomLeftRadius="10dp"
+        android:bottomRightRadius="10dp"
+        android:topLeftRadius="10dp"
+        android:topRightRadius="10dp" />
+
+</shape>

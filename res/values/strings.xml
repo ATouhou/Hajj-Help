@@ -1,0 +1,1340 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="navigation_drawer_items_array">
+        <item>Profile</item>
+        <item>Home</item>
+        <item>Change Password</item>
+        <item>Logout</item>
+    </string-array>
+
+    <string name="action_refresh">Settings</string>
+    <string name="action_new">Settings</string>
+    <string name="logo_desc">App logo</string>
+    <string name="app_name">Hujj Help</string>
+    <string name="Labbayak">Hujj Help</string>
+    <string name="enterPassword">Enter Password</string>
+    <string name="enterUsername">Enter Username</string>
+    <string name="SignIn">Sign In</string>
+    <string name="SignUp">Sign Up</string>
+    <string name="forgotPwd">Forgot Password..?</string>
+    <string name="guestUserr">Continue as Guest User..</string>
+    <string name="Pwdreset">Password Re-set Page</string>
+    <string name="enterEmailId">Enter E-Mail Id</string>
+    <string name="enterMobile">Enter Mobile Number</string>
+    <string name="enterPassportNo">Enter Passport Number</string>
+    <string name="btnSubmit">Submit</string>
+    <string name="btnCancel">Cancel</string>
+    <string name="or">or</string>
+    <string name="toastprovince">Please select State</string>
+    <string name="toastpassport">Please enter Passport Number </string>
+    <string name="toastemail">Please enter Email ID</string>
+    <string name="toastvalidemail">Please enter valid Email ID</string>
+    <string name="toastlocation">Please enter Location Name</string>
+
+    <string-array name="SelectLanguage">
+        <item>Select Language</item>
+        <item>English</item>
+        <item>Arabic</item>
+    </string-array>
+
+    <string name="quotes1">      Quote&#160;1:\n\n&#160;&#160;&#160;To imagine is everything, to know is nothing at all.\n\n\n
+      Quote&#160;2:\n\n&#160;&#160;&#160;The return we reap from generous actions is not always evident.\n\n\n
+      Quote&#160;3:\n\n&#160;&#160;&#160;Ocean: A body of water occupying about two-thirds of a world made for man - who has no gills.</string>
+    <string name="quran1"> &#160;&#160;&#160;&#160;&#160;&#160;&#160;The Quran kor-ahn Arabic:
+         the obligations that all Muslims must uphold. Every adult Muslim (male or female) who has the physical
+          and financial means is required to travel to Mecca to perform the Hajj once in his or her lifetime.
+           In Mecca, Muslims from all over the world gather in a display of faith, unity, 
+           and solidarity by recreating the ritual that the prophet Muhammad performed in his last pilgrimage.
+           \n\n &#160;&#160;&#160;&#160;&#160;&#160; Be sure you are ready to perform the Hajj.  The Hajj is not to be undertaken lightly or as an afterthought. 
+           In ancient times, it was not uncommon for pilgrims to die during their journey to Mecca.\n\n 
+           Though modern conveniences now allow millions of Muslims to quickly and safely travel to and from the holy city, the Hajj should still be approached with the seriousness and dedication of 
+         these early pilgrims.</string>
+    <string name="hujj1">&#160;&#160;&#160;&#160;&#160;&#160;&#160;The Hajj (pilgrimage to Mecca) is one of the five pillars of Islam,
+         the obligations that all Muslims must uphold. Every adult Muslim (male or female) who has the physical
+          and financial means is required to travel to Mecca to perform the Hajj once in his or her lifetime.
+           In Mecca, Muslims from all over the world gather in a display of faith, unity, 
+           and solidarity by recreating the ritual that the prophet Muhammad performed in his last pilgrimage.
+           \n\n &#160;&#160;&#160;&#160;&#160;&#160; Be sure you are ready to perform the Hajj.  The Hajj is not to be undertaken lightly or as an afterthought. 
+           In ancient times, it was not uncommon for pilgrims to die during their journey to Mecca.\n\n 
+           Though modern conveniences now allow millions of Muslims to quickly and safely travel to and from the holy city, the Hajj should still be approached with the seriousness and dedication of 
+         these early pilgrims.</string>
+    <string name="hujj2">Study the rituals of the Hajj, begin to clear your mind of worldly distractions, and, most importantly, be repentant for 
+         past sins, which will be forgiven during your pilgrimage.\n\n
+         1. As with all forms of Muslim worship, the Hajj must be undertaken with sincerity and out of a devotion to God (Allah).
+         \n\n 2. The Hajj cannot be performed for the purpose of gaining worldly recognition or material gains in this life.\n\n
+         The Hajj must be performed in accordance with the prophet Muhammads words and deeds as described in the Sunnah.
+\n\n Decide which type of Hajj you will undertake. Muslims have three different options when it comes to performing the Hajj.
+ Each offers a slightly different experience in terms of the rituals performed and the timeline of events on the pilgrimage.</string>
+    <string name="hujj3">This is the most common form of pilgrimage and the one recommended 
+        by the prophet Muhammad himself.Tamattu involves the pilgrim performing the rites of the minor pilgrimage ritual known as Umrah, 
+        then performing the rites of the Hajj. \n\n the act of Umrah is amongst the best deeds one can perform when pleasing Allah (SWT) \n 	In the blessed month of Ramadan. 
+        \n\n Pilgrims performing Tamattu are called Mutamatti. As this is the most common type of pilgrimage,
+         especially for foreigners to Saudi Arabia, the rest of this guide assumes you will be performing this type of pilgrimage.
+         \n\n In this option, the pilgrim performs the rites of both the Umrah and Hajj in one continuous act with no break in the middle.
+          Pilgrims performing Qiran are called Qaarin.</string>
+    <string name="hujj4">\n\nDESTINATION OPTIONS \n– MAKKAH FIRST \n\n  1.&#160; Less common \n \n 2.&#160; 	Perform Umrah and HAJJ first then go &#160;&#160;&#160;&#160;&#160;
+         to Madina\n\n 3.&#160; 
+        	You need to have a pair of Ihram wear &#160;&#160;&#160;&#160;&#160; with you for your Umrah before travel\n\n 4.&#160; 
+        		Put on Ihram wear in the airport or at &#160; &#160;&#160;&#160;&#160; the last stop
+        	 of your trip or before boarding the your flight to Jeddah. \n\nEvery adult Muslim (male or female) who has the physical
+          and financial means is required to travel to Mecca to perform the Hajj once in his or her lifetime.
+           In Mecca, Muslims from all over the world gather in a display of faith, unity, 
+           and solidarity by recreating the ritual that the prophet Muhammad performed in his last pilgrimage. </string>
+    <string name="hujj5"></string>
+    <string name="umrah1">Introduction \n \n 	Umrah is expiation for the sins committed between it and another Umrah. (Bukhari) \n 	The act of Umrah is known to cleanse one’s soul from past committed sins. \n 	It is advised to do Umrah more than once in your lifetime so that it can act as a washing of the sins from the last time one performed Umrah. \n </string>
+    <string name="umrah2">	Like HAJJ, the act of Umrah is amongst the best deeds one can perform when pleasing Allah (SWT) \n 	In the blessed month of Ramadan, the reward of performing Umrah is equal to that of performing Hajj with Prophet (S.a.a.W) \n 	Another great virtue of Umrah is that if one passes away in their journey of Umrah, the reward for them is Jannat.\n</string>
+    <string name="umrah3">While leaving to perform Umrah \n \n Make Ghusl (full body wash) \n Before reaching Meeqat, the starting point of Umrah, one should enter into a state of Ihram \n \n Whatever Salah is due at the time of travel, ensure it has been prayed in full before moving out\n </string>
+    <string name="umrah4">"Read 2 rakaats of Travelling Salah before going \n When going out of your house/hotel, say: \n \n Bismillahi, Tawakkaltu, 'a‐lallahi, wa laa hawla wa laa quwatta illah billah\n\n Make Talbiyah and continue making Talbiyah until you reach Kaba’h." </string>
+    <string name="umrah5">“Labbayka Allaahumma labbayk, labbayka laa shareeka laka labbayk. Inna al-hamd wa’l-ni’mata laka wa’l-mulk, laa shareeka lak" \n \nHere I am, O Allaah, here I am. Here I am, You have no partner, here I am. Verily all praise and blessings are Yours, and all sovereignty, You have no partner.” </string>
+    <string name="health1">HEALTH AND EMERGENCY TIPS \n \n Physical Preparation \n \n  1.Get in shape. You will walk, walk and walk some more. Some people recommend walking regularly in the weeks before Hajj to build endurance.\n 2.	Boost your immunity. Travelling from the U.S. takes a huge tolls. </string>
+    <string name="health2">So indulge in fruits and veggies, especially those rich in antioxidants. Stay away from sick people as best as you can during the trip.. One friend started taking a teaspoon of honey regularly in her tea. A few people wore a surgeon’s mask throughout the trip. Although it may seem mean, don’t share your water bottles or share prayer mats.</string>
+    <string name="health3">3.Pace yourself upon arrival. Try to balance between resting and making the most of your time in Makkah and Madinah.\n \n 4.	Preventive care. Take medicine as soon as you feel sick, but avoid taking antibiotics unless or until you have been diagnosed with a bacterial infection.  </string>
+    <string name="health4">EMERGENCY \n \n STAPMEDE \n\n 1.	If you are in a crowd, a first and most important thing is to make yourself familiar with your surroundings and mentally notice alternate exits. No matter where you are, make sure you always know how to get out.\n</string>
+    <string name="health5">2.If you find yourself in the middle of a moving crowd do not fight against the pressure, do not stand still or sit down, because you could easily get trampled.\n \n 3.	Keep your hands up by your chest, like a boxer – it gives you movement and protects your chest.</string>
+
+    <!-- //vasr Stings -->
+
+    <string-array name="languages">
+        <item>Select Language</item>
+        <item>English</item>
+        <item>ಕನ್ನಡ</item>
+        <item>తెలుగు</item>
+        <item>मराठी</item>
+        <item>हिंदी</item>
+    </string-array>
+    <string-array name="usertypelist">
+        <item>Select UserType</item>
+        <item>Farmer</item>
+        <item>Surveyor</item>
+    </string-array>
+    <string-array name="typeodobservation">
+        <item>Select Type of Observation</item>
+        <item>Threat</item>
+        <item>Activity</item>
+        <item>General</item>
+    </string-array>
+    <string-array name="obsactivitystatus">
+        <item>Select Activity Status</item>
+        <item>Planned</item>
+        <item>Work in progress</item>
+        <item>Stopped</item>
+        <item>Completed</item>
+    </string-array>
+
+    <!-- Login -->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="newpassword">New Password</string>
+    <string name="savepassword">Change Password</string>
+    <string name="cpassword">Confirm Password</string>
+    <string name="RememberMe">Remember Me</string>
+    <string name="login">Login</string>
+    <string name="GEO">Genarate GEO Lat-Long</string>
+    <string name="newuser">New User</string>
+    <string name="newsurveyor">New Surveyor</string>
+    <string name="forgotpassword">Forgot Password ?</string>
+    <string name="upassword"><![CDATA[Password<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uconfirmpassword"><![CDATA[Confirm Password<b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Home -->
+
+    <string name="samples">Samples</string>
+    <string name="advices">Advices</string>
+    <string name="profile">Profile</string>
+    <string name="farms">Farms</string>
+    <string name="crops">Crops</string>
+    <string name="activities">Activities</string>
+    <string name="randomobservations">Random\nObservations</string>
+    <string name="getscheduleshome">Schedule\nObservation</string>
+    <string name="settingshome">Settings\n</string>
+
+    <!-- Edit Farmer Profile -->
+    <string name="familysize">Family Size</string>
+    <string name="eduqualification">Educational Qualification</string>
+    <string name="landline">Land Line</string>
+    <string name="landtype">Land Type</string>
+    <string name="ufarmername"><![CDATA[Farmer Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="ulandtype"><![CDATA[Land Type <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uotherlandtype"><![CDATA[Other LandType <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="farmerphoto">Farmer Photo</string>
+    <string name="religion">Religion</string>
+    <string name="socialcategory">Social Category</string>
+    <string name="socialsubcategory">Social Sub Category</string>
+    <string name="physicallychallenged">Physically Challenged</string>
+    <string name="physicallychallengednature">Physically Challenged Nature</string>
+    <string name="exservicepersonnel">Ex-Service Personnel</string>
+    <string name="bankname">Bank Name</string>
+    <string name="bankbranch">Bank Branch</string>
+    <string name="bankaccountnumber">Bank Account Number</string>
+    <string name="IDProofType">ID Proof Type</string>
+    <string name="IDProofNumber">ID Proof Number</string>
+    <string name="AddressProof">Address Proof</string>
+    <string name="AddressProofNumber">Address Proof Number</string>
+    <string name="UploadProofs">Upload Proofs</string>
+    <string name="IDProof">ID Proof</string>
+    <string name="BirthCertificate">Birth Certificate</string>
+    <string name="SocialCategoryCertificate">Social Category Certificate</string>
+    <string name="PHCCertificate">PHC Certificate</string>
+
+    <!-- Farm -->
+    <string name="area">Area</string>
+    <string name="expectedquantity">Expected\nQuantity</string>
+    <string name="surveynumber">Survey Number</string>
+    <string name="usurveynumber"><![CDATA[Survey Number <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="friendlyname">FriendlyName</string>
+    <string name="nameofwater">Resource Name</string>
+    <string name="waterResourcesProfile">Water Resources Profile</string>
+    <string name="sufficiency">Sufficiency</string>
+    <string name="TagGEO">GEO - Lat and Long</string>
+    <string name="FarmArea">Farm Area</string>
+    <string name="ufarmarea"><![CDATA[Farm Area(Acre)<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="typeofusage">Type of Usage</string>
+    <string name="primarystatus">Primary Status</string>
+    <string name="primarysubgroup">Primary SubGroup</string>
+    <string name="uprimarysubgroup"><![CDATA[Primary SubGroup<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uentrprisemajorgroup"><![CDATA[Enterpise Major Group<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uentrprisemprimarygroup"><![CDATA[Enterpise Primary Group<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="slopedirection">Slope Direction</string>
+    <string name="basic">Basic</string>
+    <string name="water">Water</string>
+    <string name="propertydetails">Property Details</string>
+    <string name="farmphoto">Farm\nPhoto</string>
+    <string name="changepassword">Change\nPassword</string>
+    <!-- activities -->
+    <string name="stage">Stage</string>
+    <string name="activity">Activity</string>
+    <string name="Scheduled_Activities">Scheduled Activities</string>
+    <string name="unScheduled_Activities">Un-Scheduled Activities</string>
+    <string name="getactivities">Get Activities</string>
+    <string name="getcrop">Get Crop</string>
+
+    <!-- Alerts -->
+    <string name="meetingtitle">Meeting Title</string>
+    <string name="starttime">Start Time</string>
+
+    <!-- random obj -->
+    <string name="threatsubgroupname">Threat Subgroup Name</string>
+    <string name="threatstagename">Threat Stage Name</string>
+    <string name="unitofmeasurment">Unit of Measurment</string>
+    <string name="observationdate">Observation Date</string>
+    <string name="observationvalue">Observation Value</string>
+    <string name="randomObseravationId">RandomObseravationId</string>
+    <string name="activitystatus">Activity Status</string>
+    <string name="parameter">Parameter</string>
+
+    <!-- sample -->
+    <string name="labsampleID">Lab Sample ID</string>
+    <string name="sampledate">Sample Date</string>
+    <string name="labreportreceiveddate">Lab Report Received Date</string>
+    <string name="reportexpecteddate">Report Expected Date</string>
+    <string name="samplereceivedby">Sample Received By</string>
+
+    <!-- surviour home -->
+    <string name="uploadschedule">Upload\nSchedule</string>
+
+    <!-- upload schedule -->
+    <string name="withoutimages">Without Images</string>
+    <string name="selectall">Select All</string>
+
+    <!-- activities -->
+    <string name="activityname">Activity Name</string>
+
+    <!-- closed request -->
+    <string name="requestdate">Request Date</string>
+    <string name="categorytype">CategoryType</string>
+    <string name="FarmID">FarmID </string>
+    <string name="SampleTypeID">SampleTypeID</string>
+    <string name="cropID">cropID</string>
+    <string name="state">State</string>
+    <string name="district">District</string>
+    <string name="mandal">Mandal</string>
+    <string name="taluk">Taluk</string>
+    <string name="village">Town/Village</string>
+    <string name="usubdistrict">Regency </string>
+    <string name="uDistrict">District </string>
+    <string name="uprovince">State</string>
+    <string name="date">Date</string>
+    <string name="duedate">Due Date</string>
+    <string name="getschedules">Get Schedules</string>
+    <string name="entities">Entities</string>
+    <string name="farmerslist">Farmers List</string>
+    <string name="changelang">Change Language</string>
+    <string name="farmslist">Farms List</string>
+    <string name="cropslist">Crops List</string>
+    <string name="activitieslist">Activities List</string>
+    <string name="getfarmers">Get Farmers</string>
+    <string name="sync">Sync</string>
+    <string name="getsync">Offline Sync</string>
+    <string name="getofflinedata">Retrieve Farmers Data</string>
+    <string name="getgeoofflinedata">Get Offline GEO Data</string>
+    <string name="getcropofflinedata">Retrieve Crop Names</string>
+    <string name="getretrivefarmerdata">Retrieve Farmers Data</string>
+    <string name="addfarmers">Add Farmer</string>
+    <string name="farmers">Farmer</string>
+    <string name="schedulesList">Schedules List</string>
+    <string name="uploadObservations">Upload</string>
+    <string name="Logout">Logout</string>
+    <string name="refresh">Refresh</string>
+    <string name="actionglobal">Pending</string>
+    <string name="Edit">Edit</string>
+    <string name="AddNew"> Add New</string>
+    <string name="FarmerName">Farmer Name</string>
+    <string name="FarmerID">Farmer ID</string>
+    <string name="activitiesprofile">Activity Profile</string>
+    <string name="FarmName">Farm Name</string>
+    <string name="ufarmname"><![CDATA[Farm Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="CropName">Crop Name</string>
+    <string name="multipickharvest">Multipicked\nHarvest</string>
+    <string name="ucropname"><![CDATA[Crop Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uothercrop"><![CDATA[Other CropName <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="croplist">Crops List</string>
+    <string name="farmlist">Farms List</string>
+    <string name="advicelist">Advice List</string>
+    <string name="farmerprofile"> Farmer Profile</string>
+    <string name="farmprofile"> Farm Profile</string>
+    <string name="cropprofile"> Crop Profile</string>
+    <string name="offlinepic"> Offline Photo</string>
+    <string name="uploadscheduleactivities"> Upload ScheduleActivities</string>
+    <string name="sampleprofile"> Sample Profile</string>
+    <string name="requestdetails">Request Details</string>
+    <string name="expertadvices">Expert Advices</string>
+    <string name="NewAdviceRequest">New Advice</string>
+    <string name="UploadRequest">Upload Request</string>
+    <string name="ObservationIndicator">Observation Indicator </string>
+    <string name="Observation">Observations</string>
+    <string name="ObservationId">ObservationId</string>
+    <string name="delete">Delete</string>
+    <string name="Details">Details</string>
+    <string name="CategeroryName">Category Name</string>
+    <string name="LocationName">Location Name</string>
+    <string name="ulocationname"><![CDATA[Location Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="usoiltype"><![CDATA[Soil Type <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uothersoiltype"><![CDATA[Other SoilType <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="StartObservation">Start Observation</string>
+    <string name="detail">Details List</string>
+    <string name="Latitude">Latitude</string>
+    <string name="Longitude">Longitude</string>
+    <string name="lat">Latitude</string>
+    <string name="longi">Longitude</string>
+    <string name="flat">Latitude</string>
+    <string name="flog">Longitude</string>
+    <string name="Indicator">Indicator</string>
+    <string name="Activitytext">Activity</string>
+    <string name="activityreminder">Activity Reminder</string>
+    <string name="Measurements">UOM</string>
+    <string name="uMeasurements"><![CDATA[UOM<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uomyield"><![CDATA[Yield UOM<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uomprice"><![CDATA[Price UOM<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="Threatname">Threat Name</string>
+    <string name="Threattype">Threat Type</string>
+    <string name="mThreattype"><![CDATA[Threat Type <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="selccategory">Category Name</string>
+    <string name="mselccategory"><![CDATA[Category Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="objtype">Type of Observation</string>
+    <string name="ThreatStage">Threat Stage</string>
+    <string name="Verify">Verify</string>
+    <string name="Save">Save</string>
+    <string name="Add">Add</string>
+    <string name="value">Value</string>
+    <string name="Upload">Upload</string>
+    <string name="download">Download</string>
+    <string name="downloadmasters">Download Masters</string>
+    <string name="cropdownloadmasters">Download Crops</string>
+    <string name="goedownloadmasters">Download\nGEO</string>
+    <string name="ScheduleId">Schedule ID :</string>
+    <string name="ScheduleDate">Schedule Date</string>
+    <string name="getSchedules">Get Schedules</string>
+    <string name="mobile"><![CDATA[Mobile No <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="personaldetails">Personal Details</string>
+    <string name="actionhome">action_home</string>
+    <string name="email">Email ID</string>
+    <string name="contactdetails">Contact Details</string>
+    <string name="otherdetails">Other Details</string>
+    <string name="farmername">Name</string>
+
+    <!-- Newly added Take_farmerpic offline star fields on 25-Dec-2015 -->
+    <string name="farmers_list"><![CDATA[Farmers List <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="martialstatus">Please select Marital Status</string>
+    <string name="gender">Gender</string>
+    <string name="age">Age</string>
+    <string name="toastage">Age Cannot be Zero</string>
+    <string name="selectage">Please enter Age</string>
+    <string name="dob">DOB</string>
+    <string name="aadharnum">Aadhar Number</string>
+    <string name="nationality">Nationality</string>
+    <string name="familytype">Family Type</string>
+    <string name="placeofbirth">Place of Birth</string>
+    <string name="education">Education</string>
+    <string name="profession">Profession</string>
+    <string name="blood">Blood Group</string>
+    <string name="secondaryprofession">Secondary\nProfession</string>
+    <string name="address">Address</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="Send">Send</string>
+    <string name="Description">Description</string>
+    <string name="expertname">Expert Name</string>
+    <string name="textmsg">Type a message here</string>
+    <string name="samplephoto">Sample Photo</string>
+    <string name="requestcategory">Category</string>
+    <string name="problem">Problem</string>
+    <string name="action_home">Home</string>
+    <string name="action_back">Back</string>
+    <string name="action_vas_heading">Virtual AGRI Services</string>
+    <string name="soil">Soil</string>
+    <string name="pin">Pin Code</string>
+    <string name="enterprise">Enterprise</string>
+    <string name="primaryusage">Primary Usage</string>
+    <string name="propertystatus">Property Status</string>
+    <string name="irrigationtype">Irrigation Type</string>
+    <string name="fertility">Fertility</string>
+    <string name="slope">Slope (%)</string>
+    <string name="uploadsample">Upload Sample</string>
+    <string name="uploadrequest">Upload Request</string>
+    <string name="soilcolour">Soil Colour</string>
+    <string name="soiltexture">Soil Type</string>
+    <string name="soildepth">Soil Depth</string>
+    <string name="waterbody">Water Body</string>
+    <string name="soilcondition">Soil Condition</string>
+    <string name="usoilcondition"><![CDATA[Soil Condition <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="localname">Local Name</string>
+    <string name="ownership">Ownership</string>
+    <string name="seasonality">Seasonality</string>
+    <string name="sufficiencylevel">Sufficiency Level</string>
+    <string name="modeofacquisition">Mode of Acquisition</string>
+    <string name="documentnum">Document Number</string>
+    <string name="dateoftransaction">Date of Transaction</string>
+    <string name="propertyvalue">Property Value</string>
+    <string name="colon1">:</string>
+    <string name="sampleid">Sample ID</string>
+    <string name="sampletype">Sample Type</string>
+    <string name="savesample">Save Sample</string>
+    <string name="sample">Sample</string>
+    <string name="samplecollection">Sample Collection</string>
+    <string name="requestid">Request ID</string>
+    <string name="requesttype">Request Type</string>
+    <string name="problemtitle">Problem Title</string>
+    <string name="robseravtions">Random\nObservations</string>
+    <!-- <string name="robseravtionsprofile">Random Observation Profile</string> -->
+    <string name="robseravtionsprofile">Random Observation Profile</string>
+    <string name="robseravtionsupload">Random Observation</string>
+    <string name="random">Random</string>
+    <string name="shcedules">Schedules</string>
+    <string name="settings">Settings</string>
+    <string name="photo">Photo</string>
+    <string name="enddate">End Date</string>
+
+    <!-- Farmer Registration Strings -->
+
+    <string name="newuserregistration">New User Registration</string>
+    <string name="title">Title</string>
+    <string name="Surname">Surname</string>
+    <string name="firstname">First Name</string>
+    <string name="middlename">Middle Name</string>
+    <string name="DOB">Date Of Birth</string>
+    <string name="toastdob">Please select Date of Birth below present Date</string>
+    <!-- newly added on jan 4 -->
+    <string name="toastdot">Please select Date of Transaction below present Date</string>
+    <string name="profilephoto">Profile Photo</string>
+    <string name="utitle"><![CDATA[Title <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uSurname"><![CDATA[Surname <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="ufirstname"><![CDATA[First Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="umiddlename"><![CDATA[Middle Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="ulastname"><![CDATA[Last Name<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="ufathername"><![CDATA[Father Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="ustatusoffarmer"><![CDATA[Status petani <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="umailaddress">Mailing Address</string>
+    <string name="uhouseno">House No</string>
+    <string name="upincode">Pincode</string>
+    <string name="utelephoneno">TelephoneNo</string>
+    <string name="uDOB">Date Of Birth</string>
+    <string name="uDOB_text"><![CDATA[Date Of Birth <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="umobile"><![CDATA[Mobile No <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="ugender"><![CDATA[Gender <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uage"><![CDATA[Age <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="ustate"><![CDATA[State <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="udistrict"><![CDATA[District <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="umandal"><![CDATA[Mandal <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="utaluk"><![CDATA[Taluk <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uvillage"><![CDATA[Village <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uusername"><![CDATA[Username <b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Input Advice Strings -->
+
+    <string name="Inputname">Input Name</string>
+    <string name="Formulation">Formulation</string>
+    <string name="BrandName">Brand Name</string>
+    <string name="Quantityofinput">Quantity of input</string>
+    <string name="InputMeasurement">Input Measurement</string>
+    <string name="WaterQuantity">Water Quantity</string>
+    <string name="WaterMeasurement">Water Measurement</string>
+    <string name="NoOfApplication">No.Of Application</string>
+    <string name="Gapindays">Gap in days</string>
+    <string name="Methodofapplication">Method of application</string>
+    <string name="ImplementName">Implement Name</string>
+    <string name="AdvicedBy">Adviced By</string>
+    <string name="AdviceDate">Advice Date</string>
+
+    <string-array name="sampletypesarr">
+        <item>Water</item>
+        <item>Soil</item>
+        <item>Plant</item>
+    </string-array>
+    <string-array name="statesarr">
+        <item>Andhra Pradesh</item>
+        <item>Telangana</item>
+    </string-array>
+    <string-array name="genderarr">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="threatnamearr">
+        <item>Industrial threats</item>
+        <item>Invasive species</item>
+        <item>Water level extremes</item>
+    </string-array>
+    <string-array name="threatstagearr">
+        <item>Severe</item>
+        <item>Normal</item>
+        <item>Mild</item>
+    </string-array>
+    <string-array name="selectPic_array">
+        <item>Take Photo</item>
+        <item>Cancel</item>
+    </string-array>
+    <string-array name="selectgalleryPic_array">
+        <item>Take Photo</item>
+        <item>Cancel</item>
+        <item>Select from Gallery</item>
+    </string-array>
+
+    <string name="takePhoto">Take Photo</string>
+    <string name="chooseFromGallery">Select from Gallery</string>
+    <string name="cancel">Cancel</string>
+    <string name="close">Close</string>
+    <string name="addphoto">Add Photo</string>
+    <string name="connecttoInternet">Please connect to Internet</string>
+    <string name="observationtoast">Few Observations are not yet uploaded, please upload them</string>
+    <string name="SuccesfullLogin">Successfully logged in</string>
+    <string name="UserPasswordWrong">Username and Password not matched</string>
+    <string name="upinvalid">Username and Password not matched</string>
+    <string name="pleasetrytoEnableGps">Please enable location services for GPS</string>
+    <string name="savetodb">Offline Details saved successfully</string>
+    <string name="duplicateitems">Duplicate details are not allowed</string>
+    <string name="UpdatrProfilrInformation">Updating profile information, please wait</string>
+    <string name="enableGpstitle">Location services are not enabled</string>
+    <string name="enableGpsMessage">Please enable location services for GPS</string>
+    <string name="noitems">Data not available</string>
+    <string name="noschedulelist">Schedules not available</string>
+    <string name="nofamerlist">Farmers list not avialable</string>
+    <string name="nofarmer">Farmer details not available, click on Retrieve Farmers Data</string>
+    <string name="nocroplist">Crop list not available</string>
+    <string name="noactivitieslist">Activities list not available for this crop</string>
+    <string name="nofarmlist">Farm list not available</string>
+    <string name="noalertlist">Alerts list not available</string>
+    <string name="nowaterlist">Water Resources list not available</string>
+    <string name="norequestlist">Advice Request list not available</string>
+    <string name="norequest">Request not available</string>
+    <string name="norandomobservations">Random Observations not available</string>
+    <string name="nosamplelist">Samples List not available</string>
+    <string name="uploading">Uploading data, please wait</string>
+    <string name="title_activity_sample_upload">Sample Upload Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_upload">Upload Scedules</string>
+
+    <!-- Indonesia Surveyor registration -->
+
+    <string name="surtitle">Title </string>
+    <string name="surdesignation">Designation </string>
+    <string name="suremployeeid">Employee ID </string>
+    <string name="surlocation">Location </string>
+    <string name="suremail">Email ID </string>
+    <string name="surhouseno">House No/ Street </string>
+    <string name="surtown"><![CDATA[Village<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="sursubdistrict"><![CDATA[Mandal<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="surDistrict"><![CDATA[District<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="sursubtaluk"><![CDATA[Taluk<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="surprovince"><![CDATA[State<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="surpincode">Pincode </string>
+    <string name="mail"><![CDATA[Email ID<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="userid">User ID </string>
+    <string name="confirmpassword">Confirm password</string>
+    <string name="surveyorphoto">Surveyor Photo</string>
+    <string name="farmerreg">Farmer Registration</string>
+    <string name="surveyorreg">Create Surveyor</string>
+    <string name="surveyorname">Name</string>
+    <string name="empid">EmpployeeID</string>
+    <string name="disignation"> Designation </string>
+    <string name="organization">Organization</string>
+    <string name="surorganization"><![CDATA[Organization<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="teritoryorganization">Tertiary\nOrganization</string>
+    <!-- <string name="teritoryorganization"><![CDATA[Teritaty\nOrganisation<b><font color=#ef8b2d>*</b>]]></string> -->
+    <string name="secorganization">Secondary\nOrganization</string>
+    <!-- <string name="secorganization"><![CDATA[Secondary\nOrganisation<b><font color=#ef8b2d>*</b>]]></string> -->
+    <string name="loc">Location</string>
+    <string name="usertype">Type of User</string>
+    <string name="lastnameprof">Last Name </string>
+    <string name="fathernameprof">Father Name </string>
+    <string name="housenoprof">House No/ Street </string>
+    <string name="pincodeprof">Pin code </string>
+    <string name="suractionbartitle"><![CDATA[<font color=#FFFFFF>New Surveyor Registration</font>]]></string>
+    <string name="farmeractionbartitle"><![CDATA[<font color=#FFFFFF>New Farmer Registration</font>]]></string>
+    <!-- Surveyor regis mandatory -->
+    <string name="atitle"><![CDATA[Title <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="aothertitle"><![CDATA[Other Title <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="afirstname"><![CDATA[First Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="midlename"><![CDATA[Middle Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="lastname"><![CDATA[Last Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="employeeid"><![CDATA[Employee ID <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="designation"><![CDATA[Designation <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="otherdesignation"><![CDATA[Other Designation <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="houseno"><![CDATA[House No/ Street <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="town"><![CDATA[Town/Village <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="subdistrict"><![CDATA[Regency <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="District"><![CDATA[District <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="province"><![CDATA[State <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="pincode"><![CDATA[Pincode <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="susername"><![CDATA[User Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="location"><![CDATA[Location <b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Crop Strings -->
+    <string name="newcrop">New Crop</string>
+    <string name="newfarm">New Farm</string>
+    <string name="varietyname">Variety Name</string>
+    <string name="uvarietyname"><![CDATA[Variety Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="areacultivated">Area Cultivated</string>
+    <string name="season">Crop Season</string>
+    <string name="useason"><![CDATA[Crop Season <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="utypeofcultivation"><![CDATA[Type of Cultivation <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="unatureofcrop"><![CDATA[Nature of Crop <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="uvarietytype"><![CDATA[Variety Type <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="growingmodel">Growing Model</string>
+    <string name="baseinter">Base or Inter</string>
+    <string name="basecrop">Base Crop</string>
+    <string name="startdate">Start Date</string>
+    <string name="pickid">Pick ID</string>
+    <string name="cropphoto">Crop\nPhoto</string>
+    <string name="dateofsowing">Date of sowing</string>
+    <string name="udateofsowing"><![CDATA[Date of sowing <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="spacing">Spacing</string>
+    <string name="uspacing"><![CDATA[Spacing <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="stageofcrop">Stage of Crop</string>
+    <string name="ustageofcrop"><![CDATA[Stage of Crop <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="croppingsystem">Croping System</string>
+    <string name="ucroppingsystem"><![CDATA[Croping System <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="cropcondition">Crop Condition</string>
+    <string name="ucropcondition"><![CDATA[Crop Condition <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="cultivationtype">Cultivation Type</string>
+    <string name="ucultivationtype"><![CDATA[Cultivation Type <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="intercrop">Inter Crop</string>
+
+    <!-- toast messgaes -->
+    <string name="toastsurname">Please enter Surname</string>
+    <string name="fieldempty">Field cannot be empty</string>
+    <string name="indolangselec">You have selected Indonesia</string>
+    <string name="englangselec">You have selected English</string>
+    <string name="telugulangselec">You have selected Telugu</string>
+    <string name="refreshdata">Refreshing data, please wait</string>
+    <string name="initialappdata">Initializing App takes several minutes, please wait</string>
+    <string name="kannadalangselec">You have selected Kannada</string>
+    <string name="maratilangselec">You have selected Marathi</string>
+    <string name="hindilangselec">You have selected Hindi</string>
+    <string name="toastusername">Please enter User Name</string>
+    <string name="toastpassword">Please enter Password</string>
+    <string name="toastmobileno">Please enter 10 digits mobile number</string>
+    <string name="toastmobilenovalid">Minimum 10 characters required</string>
+    <string name="toasttelephoneno">Telephone number min 11 or max 12 digits</string>
+    <string name="toastpincode">Please enter Pincode</string>
+    <string name="toastpincodevalid">Pincode minimum 6 characters required</string>
+    <string name="toastvillage">Please select Village</string>
+    <string name="toastdistrict">Please select District</string>
+    <string name="toastregency">Please select Mandal</string>
+    <string name="toastTaluk">Please select Taluk</string>
+    <string name="toasthouseno">Please enter House Number </string>
+    <string name="toastnationality">Please select Nationaly</string>
+    <string name="toastcpassword">Please Enter Confirm Password</string>
+    <string name="spinnerselectorganization">Select Organization</string>
+    <!--
+    <string name="toastotherdesig">Please enter Designation</string>
+    <string name="toastothertitle">Please enter Other Title</string> 
+    <string name="toastotherlandtype">Please enter Other Land Type</string>
+     <string name="toastothersoiltype">Please enter Other SoilType</string>
+     <string name="toastothercultitype">Please enter Other Cultivation Type</string>
+    -->
+
+    <string name="toastdesig">Please select Designation</string>
+    <string name="toastempid">Please enter Employee ID</string>
+    <string name="toastfarmername">Please enter Farmer Name</string>
+    <string name="toastfathername">Please enter Father Name</string>
+    <string name="toastlastname">Please enter Last Name</string>
+    <string name="toastmiddlename">Please enter Middle Name</string>
+    <string name="toastfirstname">Please enter First Name</string>
+    <string name="toasttitle">Please select Title</string>
+    <string name="toastnewuser">New User can be created only when Internet is connected</string>
+    <string name="toastfpassvalid">Please enter User Name and click on Forgot Password</string>
+    <string name="toastsmssent">SMS sent successfully</string>
+    <string name="toastcredidonotmatch">Credentials did not match</string>
+    <string name="toastoffdata">Offline data not available, Please connect to internet</string>
+    <string name="toastpassemail">Password has been sent to your email</string>
+    <string name="toastdataupdate">Data updated successfully</string>
+    <string name="toastnewsurregis">New user registered successfully. Pending for Approval </string>
+    <string name="toastlandtype">Please select Land Type</string>
+    <string name="toastsoiltype">Please select Soil Type</string>
+    <string name="toastsoilcondition">Please select Soil Condition</string>
+    <string name="toastfarmarea">Please enter Farm Area</string>
+    <string name="toastsurveyno">Please enter Survey Number</string>
+    <string name="toastfarmname">Please enter Farm Name</string>
+    <string name="toastduplifarmname">Duplicate Farm Name</string>
+    <string name="toastnofarmerdb">Farmer details not available,click on Retrieve Farmers Data</string>
+    <string name="toastcultitype">Please select Cultivation Type</string>
+    <string name="toastcropcondi">Please select Crop Condition</string>
+    <string name="toastcropsystem">Please select Crop System</string>
+    <string name="toastcropsesason">Please select Crop Season</string>
+    <string name="toastcropstage">Please select Crop Stage</string>
+    <string name="toastcropsapce">Please select Spacing</string>
+    <string name="toastcropsow">Please select Date of Sowing</string>
+    <string name="toastvarietyname">Please select Variety Name</string>
+    <string name="toastcropname">Please select Crop Name</string>
+    <string name="toastdownloadcrops">Please Download Crops</string>
+    <string name="toastdownloadmasterss">Please Download Masters  and GEO</string>
+    <string name="toastcropupdatesuc">Crop details saved successfully</string>
+    <string name="toastcropaddsuc">Offline New Crop added successfully, Online Upload Pending</string>
+    <string name="toastcropupdatefail">Crop details not saved</string>
+    <string name="toastdownloasmasters">Masters are Downloaded successfully</string>
+    <string name="toastlatlong">Latitude and Longitude cannot be empty</string>
+    <string name="toastuom">Please select Yield UOM</string>
+    <string name="toastuomp">Please select Price UOM</string>
+    <string name="toastvalue">Please enter Value</string>
+    <string name="toastindicator">Please select Indicator</string>
+    <string name="toastthreatstage">Please select Threat Stage</string>
+    <string name="toastthreatname">Please select Threat Name</string>
+    <string name="toastthreattype">Please select Threat Type</string>
+    <string name="toastobscat">Please select Observation Category</string>
+    <string name="toastenddate">Please select End Date</string>
+    <string name="toaststartdate">Please select Start Date</string>
+    <string name="toastnoofpicks">Please enter No.of Picks</string>
+    <string name="toastinterval">Please enter Interval among picks</string>
+    <string name="toastactivitytype">Please select Activity Type</string>
+    <string name="toastactivityname">Please select Activity Name</string>
+    <string name="toaststage">Please select Stage</string>
+    <string name="toastaddactivitysuc">New Activity added successfully</string>
+    <string name="toastaddactivityfail">New Activity details not added</string>
+    <string name="toasttakephoto">Please take Photo</string>
+    <string name="toastnoindicators">Indicators not available</string>
+    <string name="toastgetfarmers">Farmer details not available, click on Retrieve Farmers Data</string>
+    <string name="toastgetfarmerssucc">Farmers data retrieved successfully </string>
+    <string name="toastpassconfempty">Confrim Password cannot be empty</string>
+    <string name="toastpassnewempty">New Password cannot be empty</string>
+    <string name="toastpassnewsucc">Password changed successfully</string>
+    <string name="toasttimeout">Time out,click on refresh icon</string>
+
+    <!-- New Crop toasts -->
+    <string name="toastareaculti">Please enter Area Cultivated</string>
+    <string name="toastcropareaculti">Area Cultivated should be less than or equal to available Farm Area </string>
+    <string name="toastbasecropareaculti">Area Cultivated should be less than or equal to available BaseCrop Area </string>
+    <string name="toastgrowingmodel">Please select Growing Model</string>
+    <string name="toastvarietytype">Please select Variety Type</string>
+    <string name="toastnatureofcrop">Please select Nature of Crop</string>
+    <string name="toasttypeofcuti">Please select Type of cultivation</string>
+    <string name="toastcropwitactsuc">New Crop added successfully - Activities generated successfully</string>
+    <string name="toastcropwitoutactsuc">New Crop added successfully - Activities not available</string>
+    <string name="toastedtcropwitoutactsuc">Crop updated successfully - Activities already exist</string>
+    <string name="toastfarmcropname">Please select Farm Name</string>
+    <string name="toastfarmersurvname">Please select Farmer Name</string>
+    <string name="toastprimaryusage">Please enter Primary Usage</string>
+    <string name="toastprimarysubgroup">Please selecet Primary SubGroup</string>
+    <string name="toastprimarygroup">Please selecet Primary Group</string>
+    <string name="toastpropertystatus">Please select Property Status</string>
+    <string name="toastfertility">Please select Fertility</string>
+    <string name="toastirrigationtype">Please select Irrigation Type</string>
+    <string name="toastdocument">Document number cannot be zero</string>
+    <string name="toastimgnotfound">Image not available</string>
+    <string name="toastbasecropselc">Please select Base Crop</string>
+
+    <!-- New Crop Strings -->
+    <string name="typeofcultivation">Type of Cultivation </string>
+    <string name="natureofcrop">Nature of Crop </string>
+    <string name="varietytype">Variety Type</string>
+
+    <!-- Spinner select -->
+    <string name="spinnerselect">Select</string>
+    <string name="spinnerselecttitle">Select Title</string>
+    <string name="spinnerselectgender">Select Gender</string>
+    <string name="spinnerselectmaritalstatus">Select Marital Status</string>
+    <string name="spinnerselectnationality">Select Nationality</string>
+    <string name="spinnerselectdesig">Select Designation</string>
+    <string name="spinnerselectprovince">Select State</string>
+    <string name="spinnerselectregency">Select Mandal</string>
+    <string name="spinnerselectdistrict">Select District</string>
+    <string name="spinnerselecttaluk">Select Taluk</string>
+    <string name="spinnerselectvillage">Select Village</string>
+    <string name="spinnerselectlandtype">Select Land Type</string>
+    <string name="spinnerselectsclasification">Select Soil Classification</string>
+    <string name="spinnerselectsoiltype">Select Soil Type</string>
+    <string name="spinnerselectsoilcondition">Select Soil Condition</string>
+
+    <!-- Dialog Messages -->
+    <string name="dialognewfarmer">Adding new Farmer</string>
+    <string name="dialogaddnewsuccessfarmer">Offline Add Farmer registered successfully,Online Upload Pending</string>
+    <string name="dialogaddnewsuccessfarm">Offline Add Farm registered successfully,Online Upload Pending</string>
+    <string name="dialognewsuccessfarmer">New Farmer registered successfully</string>
+    <string name="dialognewfarm">Adding new Farm</string>
+    <string name="dialogfarmupdate">Farm details updated successfully</string>
+    <string name="dialogfarmlatlongupdate">GEO Lat and Long details saved successfully</string>
+    <string name="dialogfarmupdatefail">Failed to update farm details</string>
+    <string name="dialoginitial">Initializing App takes several minutes, please wait</string>
+    <string name="dialoggetfarmers">Retrieving Farmers data, please wait</string>
+    <string name="dialoggetmastersupdate">Updating data, please wait</string>
+
+    <!-- Activities Strings -->
+    <string name="afarmername"><![CDATA[Farmer Name<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="afathername"><![CDATA[Father Name<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="afarmname"><![CDATA[Farm Name<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="acropname"><![CDATA[Crop Name<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="avarietyname"><![CDATA[Variety Name<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="astage"><![CDATA[Stage<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="aactivity"><![CDATA[Activity <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="aactivitytype"><![CDATA[Activit Type<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="astartdate"><![CDATA[Start Date<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="aendadate"><![CDATA[End Date<b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Mandatory Fields -->
+
+
+    <!-- Scheduleobservations Strings -->
+    <string name="mthreatname"><![CDATA[Threat <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="mthreatstage"><![CDATA[Threat Stage <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="mindicator"><![CDATA[Indicator <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="mvalue"><![CDATA[Value <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="mlatitude"><![CDATA[Latitude <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="mlonitude"><![CDATA[Longitude <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="mphoto"><![CDATA[Photo <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="mUOM"><![CDATA[UOM <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="scrollnote">Note: Please use either sides of below box to scroll</string>
+
+    <!-- Page Header Strings -->
+    <string name="newfarmer">New Farmer Registration</string>
+    <string name="intercropprofile">Inter Crop Profile</string>
+    <string name="newrandomThreats">New Random Observations</string>
+
+    <!-- New -->
+
+    <string name="randomobservationshome">Random\nObservations</string>
+    <string name="forganization">Organization</string>
+    <string name="ownername">Name of the Owner</string>
+    <string name="ownerid">Owner Id</string>
+
+    <!-- Alerts -->
+
+    <string name="alerts">Alerts</string>
+    <string name="sdj">Sdj</string>
+    <string name="ok">Ok</string>
+
+    <!-- old Jyothi <string name="NewAdviceRequest">New Advice</string> -->
+
+    <string name="requestmode">Request Mode</string>
+    <string name="CategeroryType">Category Type</string>
+    <string name="zeropoint">0.0</string>
+    <string name="organisation">Organization/Institute</string>
+    <string name="toastrequest">"Please select Type Of Request"</string>
+
+    <string-array name="banknames">
+        <item>Select</item>
+        <item>Abhyudaya Co-op Bank Ltd</item>
+        <item>Abu Dhabi Commercial Bank</item>
+        <item>Akola District Central Co-operative Bank</item>
+        <item>Allahabad Bank</item>
+        <item>Almora Urban Co-operative Bank Ltd</item>
+        <item>Andhra Bank</item>
+        <item>Andhra Pragathi Grameena Bank</item>
+        <item>Apna Sahakari Bank Ltd</item>
+        <item>Australia And New Zealand Banking Group Limited</item>
+        <item>Axis Bank</item>
+        <item>Bank Of America</item>
+        <item>Bank Of Bahrain And Kuwait</item>
+        <item>Bank Of Baroda</item>
+        <item>Bank Of Ceylon</item>
+        <item>Bank Of India</item>
+        <item>Bank Of Maharashtra</item>
+        <item>Bank Of Tokyo-mitsubishi Ufj Ltd</item>
+        <item>Barclays Bank Plc</item>
+        <item>Bassein Catholic Co-op Bank Ltd</item>
+        <item>Bnp Paribas</item>
+        <item>Canara Bank</item>
+        <item>Capital Local Area Bank Ltd</item>
+        <item>Catholic Syrian Bank Ltd</item>
+        <item>Central Bank Of India</item>
+        <item>Chinatrust Commercial Bank</item>
+        <item>Citibank Na</item>
+        <item>Citizencredit Co-operative Bank Ltd</item>
+        <item>City Union Bank Ltd</item>
+        <item>Commonwealth Bank Of Australia</item>
+        <item>Corporation Bank</item>
+        <item>Credit Agricole Corp N Invsmnt Bank</item>
+        <item>Credit Suisse Ag</item>
+        <item>Dbs Bank Ltd</item>
+        <item>Dena Bank</item>
+        <item>Deutsche Bank Ag</item>
+        <item>Development Credit Bank Limited</item>
+        <item>Dhanlaxmi Bank Ltd</item>
+        <item>Dicgc</item>
+        <item>Dombivli Nagari Sahakari Bank Limited</item>
+        <item>Firstrand Bank Limited</item>
+        <item>Gurgaon Gramin Bank</item>
+        <item>Hdfc Bank Ltd</item>
+        <item>Hsbc</item>
+        <item>Icici Bank Ltd</item>
+        <item>Idbi Bank Ltd</item>
+        <item>Indian Bank</item>
+        <item>Indian Overseas Bank</item>
+        <item>Indusind Bank Ltd</item>
+        <item>Ing Vysya Bank Ltd</item>
+        <item>Jalgaon Janata Sahkari Bank Ltd</item>
+        <item>Janakalyan Sahakari Bank Ltd</item>
+        <item>Janaseva Sahakari Bank Ltd Pune</item>
+        <item>Janata Sahakari Bank Ltd (pune)</item>
+        <item>Jpmorgan Chase Bank Na</item>
+        <item>Kallappanna Awade Ich Janata Sahakari Bank</item>
+        <item>Kapole Co Op Bank</item>
+        <item>Karnataka Bank Ltd</item>
+        <item>Karnataka Vikas Grameena Bank</item>
+        <item>Karur Vysya Bank</item>
+        <item>Kotak Mahindra Bank</item>
+        <item>Kurmanchal Nagar Sahkari Bank Ltd</item>
+        <item>Mahanagar Co-op Bank Ltd</item>
+        <item>Maharashtra State Co Operative Bank</item>
+        <item>Mashreq Bank Psc</item>
+        <item>Mizuho Corporate Bank Ltd</item>
+        <item>Mumbai District Central Co-operative Bank Ltd</item>
+        <item>Nagpur Nagrik Sahakari Bank Ltd</item>
+        <item>New India Co-operative Bank Ltd</item>
+        <item>Nkgsb Co-op Bank Ltd</item>
+        <item>North Malabar Gramin Bank</item>
+        <item>Nutan Nagarik Sahakari Bank Ltd</item>
+        <item>Oman International Bank Saog</item>
+        <item>Oriental Bank Of Commerce</item>
+        <item>Parsik Janata Sahakari Bank Ltd</item>
+        <item>Prathama Bank</item>
+        <item>Prime Co-operative Bank Ltd</item>
+        <item>Punjab And Maharashtra Co-op Bank Ltd</item>
+        <item>Punjab And Sind Bank</item>
+        <item>Punjab National Bank</item>
+        <item>Rabobank International (ccrb)</item>
+        <item>Rajkot Nagarik Sahakari Bank Ltd</item>
+        <item>Reserve Bank Of India</item>
+        <item>Sber Bank</item>
+        <item>Shinhan Bank</item>
+        <item>Shri Chhatrapati Rajarshi Shahu Urban Co-op Bank Ltd</item>
+        <item>Societe Generale</item>
+        <item>South Indian Bank</item>
+        <item>Standard Chartered Bank</item>
+        <item>State Bank Of Bikaner And Jaipur</item>
+        <item>State Bank Of Hyderabad</item>
+        <item>State Bank Of India</item>
+        <item>State Bank Of Mauritius Ltd</item>
+        <item>State Bank Of Mysore</item>
+        <item>State Bank Of Patiala</item>
+        <item>State Bank Of Travancore</item>
+        <item>Sumitomo Mitsui Banking Corporation</item>
+        <item>Syndicate Bank</item>
+        <item>Tamilnad Mercantile Bank Ltd</item>
+        <item>Thane Bharat Sahakari Bank Ltd</item>
+        <item>The A P Mahesh Co-op Urban Bank Ltd</item>
+        <item>The Ahmedabad Mercantile Co-operative Bank Ltd</item>
+        <item>The Andhra Pradesh State Coop Bank Ltd</item>
+        <item>The Bank Of Nova Scotia</item>
+        <item>The Bharat Co-operative Bank (mumbai) Ltd</item>
+        <item>The Cosmos Co-operative Bank Ltd</item>
+        <item>The Federal Bank Ltd</item>
+        <item>The Gadchiroli District Central Cooperative Bank Ltd</item>
+        <item>The Greater Bombay Co-op Bank Ltd</item>
+        <item>The Gujarat State Co-operative Bank Ltd</item>
+        <item>The Jalgaon Peoples Co-op Bank</item>
+        <item>The Jammu And Kashmir Bank Ltd</item>
+        <item>The Kalupur Commercial Co Op Bank Ltd</item>
+        <item>The Kalyan Janata Sahakari Bank Ltd</item>
+        <item>The Kangra Central Co-op Bank Limited Kccb</item>
+        <item>The Kangra Co-operative Bank Ltd</item>
+        <item>The Karad Urban Co-op Bank Ltd</item>
+        <item>The Karnataka State Co-operative Apex Bank Ltd</item>
+        <item>The Lakshmi Vilas Bank Ltd</item>
+        <item>The Mehsana Urban Cooperative Bank Ltd</item>
+        <item>The Municipal Co Operative Bank Ltd Mumbai</item>
+        <item>The Nainital Bank Limited</item>
+        <item>The Nasik Merchants Co-op Bank Ltd Nashik</item>
+        <item>The Rajasthan State Cooperative Bank Ltd</item>
+        <item>The Ratnakar Bank Ltd</item>
+        <item>The Royal Bank Of Scotland Nv</item>
+        <item>The Saraswat Co-operative Bank Ltd</item>
+        <item>The Seva Vikas Co-operative Bank Ltd</item>
+        <item>The Shamrao Vithal Co-operative Bank Limited</item>
+        <item>The Surat District Co Operative Bank Ltd</item>
+        <item>The Surat Peoples Co-op Bank Ltd</item>
+        <item>The Sutex Co-op Bank Ltd</item>
+        <item>The Tamilnadu State Apex Cooperative Bank Limited</item>
+        <item>The Thane District Central Co-op Bank Ltd</item>
+        <item>The Thane Janata Sahakari Bank Ltd</item>
+        <item>The Varachha Co-op Bank Ltd</item>
+        <item>The Vishweshwar Sahakari Bank Ltd Pune</item>
+        <item>The West Bengal State Cooperative Bank Ltd</item>
+        <item>Tjsb Sahakari Bank Ltd</item>
+        <item>Tumkur Grain Merchants Cooperative Bank Ltd</item>
+        <item>Ubs Ag</item>
+        <item>Uco Bank</item>
+        <item>Union Bank Of India</item>
+        <item>United Bank Of India</item>
+        <item>Vasai Vikas Sahakari Bank Ltd</item>
+        <item>Vijaya Bank</item>
+        <item>Westpac Banking Corporation</item>
+        <item>Woori Bank</item>
+        <item>Yes Bank Ltd</item>
+        <item>Others</item>
+    </string-array>
+
+    <!-- Mandatory Feilds -->
+
+
+    <!-- Farmer Registration Strings -->
+
+    <string name="umaritalstatus"><![CDATA[Marital Status <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="maritalstus">Marital Status</string>
+    <string name="uorganization"><![CDATA[Organization <b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Latatiude and Longitude Fields -->
+
+    <string name="mlongitude"><![CDATA[Longitude <b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Farm Strings -->
+    <string name="fmarea"><![CDATA[Area <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmsurveynumber"><![CDATA[Survey Number <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmfriendlyname"><![CDATA[FriendlyName <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmnameofwater"><![CDATA[Resource Name<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmsufficiency"><![CDATA[Sufficiency <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmFarmArea"><![CDATA[Farm Area <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmtypeofusage"><![CDATA[Type of Usage <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmprimaryusage"><![CDATA[Primary Usage<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmpropertystatus"><![CDATA[Property Status <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmslopedirection"><![CDATA[Slope Direction <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmfertility"><![CDATA[Fertility <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmslope"><![CDATA[Slope (%) <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmirrigationtype"><![CDATA[Irrigation Type <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmsoilcolour"><![CDATA[Soil Colour <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="fmsoiltexture"><![CDATA[Soil Type <b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Crop Strings -->
+    <string name="cmfarmname"><![CDATA[Farm Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="cmCropname"><![CDATA[Crop Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="cmvarietyname"><![CDATA[Variety Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="cmgrowingmodel"><![CDATA[Growing Model <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="cmbaseorinter"><![CDATA[Base or Inter <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="cmbasecrop"><![CDATA[Base Crop <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="cmareacultivated"><![CDATA[Area Cultivated(Acre)<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="cmseason"><![CDATA[Season <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="cmstartdate"><![CDATA[Start Date <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="cmenddate"><![CDATA[End Date <b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Request Strings -->
+
+    <string name="rmrequestmode"><![CDATA[Request Mode <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="rmCategotyname"><![CDATA[Category Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="rmtreattype"><![CDATA[Threat Type <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="rmproblemtitle"><![CDATA[Problem Title <b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Sample Strings -->
+    <string name="smsampletype"><![CDATA[Sample Type <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="smfarmername"><![CDATA[Farmer Name <b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Randomobservations Strings -->
+    <string name="romthreatname"><![CDATA[Threat Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="romthreatstage"><![CDATA[Threat Stage <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="romindicator"><![CDATA[Indicator <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="romvalue"><![CDATA[Value <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="romUOM"><![CDATA[UOM <b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Activities Strings -->
+
+    <string name="aactivittype"><![CDATA[Activity Type<b><font color=#ef8b2d>*</b>]]></string>
+    <!-- veda -->
+    <string name="edittextusername">Please enter User Name</string>
+    <string name="edittextpwd">Please enter Password</string>
+    <string name="newuserinnetonly">New User can be created only when Internet is connected</string>
+    <string name="newseronnetonly">New User can be created only when Internet is connected</string>
+    <string name="NoMobile">No Mobile number, please contact with Surveyor</string>
+    <string name="usernameforpwd">Please enter User Name and click Forgot Password</string>
+    <string name="admistratorlg">Administrator can login only from WEB</string>
+    <string name="expertlg">Expert can login only from WEB</string>
+    <string name="samplesdatauploaded">Samples data uploaded successfully</string>
+    <string name="toastdiscussionpost">Discussion posted successfully</string>
+    <string name="toastselectdate">Please select Date</string>
+    <string name="spinnerdatanotret">Data could not be retrieved</string>
+    <string name="toastconnectint">Please connect to Internet</string>
+    <string name="toastselectvalue">Please select Value</string>
+    <string name="toastexpinnerloop">Oops! server error, please try again</string>
+    <string name="toastnoimg">No Image</string>
+    <string name="selectfarmname">Please select Farm Name</string>
+    <string name="selectsampletype">Please select Sample Type</string>
+    <string name="datadelete">Data deleted successfully</string>
+
+    <!-- nikesh -->
+    <!-- -advicehistory -->
+    <string name="fieldcant">Field cannot be empty</string>
+    <string name="discusposted">Discussion posted successfully</string>
+    <string name="testdatauploaded">Data uploaded successfully</string>
+    <string name="stoprecording">Stop recording</string>
+    <string name="startrecording">Start recording</string>
+    <string name="startplayrecording">play recorded audio</string>
+    <string name="downloadingaudio">Downloading audio, please wait</string>
+    <string name="waitaudioloading">Audio is loading, please wait</string>
+    <string name="onlyvlc">Audio can play only in VLC Player, please download</string>
+
+    <!-- -advicerequest -->
+
+    <string name="selectthreattype">Please select Threat Type</string>
+    <string name="cropeditonlyonline">Crop can be created ONLY when internet is connected</string>
+    <string name="changelangonline">Language can be changed ONLY when internet is connected</string>
+    <string name="toastpasswordmatch">Password do not match</string>
+    <string name="meetingwebonly">Meeting is available only in WEB</string>
+    <string name="exceptionoccured">Oops! server error, please try again</string>
+    <string name="cropstartenddate">Start Date should be less than End Date</string>
+    <string name="actualstartenddate">Actual Start Date should be less than or equal to End Date</string>
+    <string name="cropsamedate">Crop exist with same Date</string>
+    <string name="selectbaseorinter">Please select Base or Inter</string>
+    <string name="latlongreq">Latitude and Longitude requried, click on GEO - Lat and Long</string>
+    <string name="datacouldnotretrieved">Data could not be retrieved</string>
+    <string name="updatingdata">Updating data, please wait</string>
+    <string name="unameexistreenter">User Name already exists, please try new</string>
+    <string name="cantleaveempty">Fields cannot be empty</string>
+    <string name="usernameclickforgotpwd">Please enter User Name and click on Forgot Password</string>
+    <string name="farmeditonlyonline">Farm can be created only when internet is connected</string>
+    <string name="intercropcantbeedited">Inter Crop cannot be edited</string>
+    <string name="toastselectcropsartdate">Please select Crop Start Date</string>
+    <string name="newfarmaddsuc">New Farm added successfully</string>
+    <string name="addingwatersource">Adding Water Resources</string>
+    <string name="newwaterresadded">New Water Resources added successfully</string>
+
+    <!-- ScheduleActivities Strings -->
+    <string name="sactivityname">Activity Name</string>
+    <string name="description">Description</string>
+    <string name="sactivitytype">Activity Type</string>
+    <string name="sstartdate">Start Date</string>
+    <string name="estimatedcost">Estimated Cost</string>
+    <string name="actsstartdate">Actual Start Date</string>
+    <string name="actsenddate">Actual End Date</string>
+    <string name="sainputs">Activity Inputs</string>
+    <string name="saimple">Implements</string>
+    <string name="saanimlabour">Animal Labour</string>
+    <string name="sahumlabour">Human Labour</string>
+    <string name="saopres">Operation Resource</string>
+    <string name="inputname">Input Name</string>
+    <string name="qty">Quantity</string>
+    <string name="actuals">Actuals</string>
+    <string name="used">Used</string>
+    <string name="brand">Brand</string>
+    <string name="actualqty">Actual\nQuantity</string>
+    <string name="actualcost">Actual Cost</string>
+    <string name="formulation">Formulation</string>
+    <string name="status">Status</string>
+    <string name="owned">Owned</string>
+    <string name="bought">Bought</string>
+    <string name="hired">Hired</string>
+    <string name="family">Family</string>
+    <string name="publictype">Public</string>
+    <string name="implementcat">Implement Category</string>
+    <string name="implementname">Implement Name</string>
+    <string name="methodapply">Method Apply</string>
+    <string name="applicationmethod">Application Method</string>
+    <string name="humanlabourtype">Human Labour Type</string>
+    <string name="humanlabourcategory">Human Labour Category</string>
+    <string name="effortrequired">Effort Required(Hrs)</string>
+    <string name="animallabourtype">Animal Type</string>
+    <string name="operationalresource">Operational Resource</string>
+    <string name="operationalresourcename">Resource Name</string>
+    <string name="resource">Resource</string>
+    <string name="activitytitle">Activity Details</string>
+    <string name="inputtitle">Activity Inputs Details</string>
+    <string name="implementtitle">Input Implement Details</string>
+    <string name="humlabourtitle">Human Labour Details</string>
+    <string name="animlabourtitle">Animal Labour Details</string>
+    <string name="opresourcetitle">Operational Resource Details</string>
+    <string name="saimplementtext">Implement</string>
+    <string name="samethodtext">Method</string>
+    <string name="saTypetext">Type</string>
+    <string name="sahrstext">Hours</string>
+    <string name="sacosttext">Cost</string>
+
+    <!-- Newly added String on oct 03 human labour -->
+    <string name="effortconsumed">Effort Consumed(Hrs)</string>
+
+    <!-- Newly added String on dec 24 Activities Star feilds -->
+    <string name="Brand_Name"><![CDATA[Brand Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="actsstart_date"><![CDATA[Actual Start Date <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="actsend_date"><![CDATA[Actual End Date <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="effort_consumed"><![CDATA[Effort Consumed(Hrs) <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="re_source"><![CDATA[Resource <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="effort_required"><![CDATA[Effort Required(Hrs) <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="animal_labourtype"><![CDATA[Animal Type <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="human_labourtype"><![CDATA[Human Labour Type <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="implement_name"><![CDATA[Implement Name <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="actual_qty"><![CDATA[Actual\nQuantity <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="formulationtxt"><![CDATA[Formulation <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="actual_cost"><![CDATA[Actual Cost <b><font color=#ef8b2d>*</b>]]></string>
+
+    <!-- Newly added String on sep25 and used in Farmlatlongupdate -->
+    <string name="farmlatlonupdatedheader">GEO Lat and Long Reference Update</string>
+
+    <!-- Newly added String on sep26 and used in Farmlatlongupdate -->
+    <!-- Button Alert Confirm Title -->
+    <string name="confirmedit">Confirm Edit Farm GEO - Lat and Long</string>
+    <string name="confirmdelete">Confirm Delete Farm GEO - Lat and Long</string>
+    <string name="confirmupload">Confirm Upload Farm GEO - Lat and Long</string>
+
+    <!-- Button Alert Confirm Message -->
+    <string name="confirmeditmessage">Are you sure you want to edit this Farm GEO - Lat and Long?</string>
+    <string name="confirmdeletemessage">Are you sure you want to delete this Farm GEO - Lat and Long?</string>
+    <string name="confirmuploadmessage">Are you sure you want to update Farm GEO - Lat and Long?</string>
+    <!-- Button Alert Confirm Answers -->
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="wraddonlyonline">Water Resource can be added only when internet is connected</string>
+    <string name="farmaddonlyonline">Farm can be added only when internet is connected</string>
+
+    <!-- Newly added on sep29 -->
+    <string name="newwaterResources">New Water Resources</string>
+    <!-- Newly added on Oct 3 -->
+    <string name="firstuploadpendinglatlong">First upload pending Lat and Long</string>
+
+    <!-- Newly added on Oct 3 -->
+    <string name="toastclickrefresh">Click on refresh icon to update data</string>
+    <string name="dialoggetmastersinitial">Updating data, please wait</string>
+
+    <!-- Newly added on Oct 4 -->
+    <string name="toastmandal">Please select Mandal</string>
+    <string name="toasttaluk">Please select Taluk</string>
+    <string name="toaststate">Please select State</string>
+    <string name="expection">Oops, something went wrong. Please try again</string>
+    <string name="valueerror">Oops! That was not valid data, try again</string>
+    <string name="servererror">Oops! Server error.Please try again</string>
+    <string name="toastsmssucess">Password has been sent to your registered mobile number</string>
+    <string name="toastemailsucess">Password has been sent to your registered Email ID</string>
+
+    <!-- Newly added on Oct 18 -->
+    <string name="toastastartdate">Please enter Actual Start Date</string>
+    <string name="toastaenddate">Please enter Actual End Date</string>
+    <string name="toastacost">Please enter Actual Cost</string>
+    <string name="toastaformulation">Please select Formulation</string>
+
+    <!-- Newly added on Oct 19 -->
+    <string name="toastaanimaltype">Please select Animal Type</string>
+    <string name="toastaeffortreq">Please enter Effort Required</string>
+    <string name="toastahumantype">Please select Human Labour Type</string>
+    <string name="toastaactquantity">Please enter Actual Quantity</string>
+    <string name="toastabrand">Please select Brand</string>
+    <string name="toastaimplement">Please select Implement</string>
+    <string name="toastaresource">Please select Resource</string>
+
+    <!-- Newly added on oct19 -->
+    <string name="advicespinnervalue">Advice</string>
+    <string name="adviceschedulemeeting">Scheduled Meeting</string>
+    <string name="adviceexpertadvice">Expert Advice</string>
+
+    <!-- Newly added on OCt21 -->
+    <string name="headeradviceuploadlist">Upload list of Advice Requests</string>
+    <string name="toastcategoryname">Please select Category Name</string>
+    <string name="toastuploadrequest">Request uploaded successfully</string>
+    <string name="farmvillagenote">Note: Please select FARM Village to get Schedules</string>
+
+    <!-- DO NOT CHANGE TO LOCAL LANGUAGE ........Newly added on OCt27 -->
+    <string-array name="actstatus">
+        <item>Bought</item>
+        <item>Family</item>
+        <item>Hired</item>
+        <item>Owned</item>
+        <item>Public</item>
+    </string-array>
+
+    <!-- Newly added on Oct31 -->
+    <string name="headerinputadvice">Input Based Advice Profile</string>
+
+    <!-- Newly added on Nov6 -->
+    <string name="headeradvicealerts">Advice Alert</string>
+    <string name="headeralertslist">Alert List</string>
+
+    <!-- Newly added on Nov23 -->
+
+    <string name="emailvalida">Please enter valid EmailID</string>
+    <string name="interval"><![CDATA[Interval <b><font color=#ef8b2d>*</b>]]></string>
+    <string name="noofpicks"><![CDATA[Number Of Picks<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="vnoofpicks">Number Of Picks</string>
+    <string name="vinterval">Interval</string>
+    <string name="expectedyield">Expected Yield</string>
+    <string name="actualyield">Actual Yield</string>
+    <string name="actualprice">Actual Price</string>
+    <string name="expectedprice">Expected Price</string>
+    <string name="multipick">Multipick </string>
+    <string name="perishable">Perishable </string>
+    <string name="harvested">Harvested </string>
+    <string name="uharvested"><![CDATA[Harvested<b><font color=#ef8b2d>*</b>]]></string>
+    <string name="available">available</string>
+
+    <!-- Newly added on Dec24 inputStrings -->
+    <string name="blendname">Blend Name</string>
+    <string name="dilutantname">Dilutant Name</string>
+
+    <!-- Newly added on Dec25 obdlistheaderlabers -->
+    <string name="asoptionalinputlistheaderlabel">Optional Inputs</string>
+    <string name="asdiluantsinputlistheaderlabel">Diluants Inputs</string>
+    <string name="asblendinputslistheaderlabel">Blend Inputs</string>
+    <string name="estcostheaderlabel">Est.Cost</string>
+    <string name="optionalinputlabel">Input Used</string>
+    <string name="actionlabel">Actions</string>
+
+    <!-- Unscheduled activities -->
+    <string name="usinputprimarygroup">Input Primary Group</string>
+    <string name="usinputsecondarygroup">Input Secondary Group</string>
+    <string name="uscostincurred">Cost Incurred</string>
+    <string name="usdilutant">Dilutant</string>
+    <string name="usadddilutant">+Add Dilutant</string>
+    <string name="usaddinput">+Add Input</string>
+    <string name="usinputs">Inputs</string>
+    <string name="genschedules">Generate Schedules</string>
+    <string name="toastactsuc">Activities generated successfully</string>
+    <string name="toastactexist">Activities already exist</string>
+
+    <!-- Newly added on Jan072016 -->
+    <string name="surveyofflinepic"> Offline\nPhoto</string>
+    <string name="toastnotemplates"> No Templates for this crop</string>
+    <string name="dailgeneratingactivities">Generating Activities. Please wait.</string>
+    <string name="updateactivities">Update\nActivities</string>
+    <string name="updatecropstage">Update Crop Stage</string>
+    <string name="updateharvest">Update Harvest details</string>
+    <string name="offdatalangcheck">Upload Data Pending, Please Upload it and Change Language.</string>
+    <!-- Newly added on FEB042016 For update harvest details -->
+    <string name="plannedharvestdate">Planned\nHarvest Date</string>
+    <string name="genscheduletempcrop">Schedules can be generated after uploading Crop</string>
+    <string name="datauploadtoast">Data Uploaded</string>
+    <string name="datanotuploadtoast">Data Not Uploaded</string>
+    <string name="offdatacheck">Upload Data Pending</string>
+    <string name="uploaddata">Data Uploading, Please Wait!.</string>
+    <string name="toastactualyield">Please enter Actual Yield</string>
+    <string name="toastactualprice">Please enter Actual Price</string>
+    <string name="harvestdate">Harvest Date</string>
+    <string name="toastdownloadcropsnmasters">Please Download Crops and Masters</string>
+ <!-- Qibla Strings  -->
+    	<string name="gps_pref_key">GPS_LOCATION_PREF</string>
+    	<string name="state_location_pref_key">state_LOCATION_PREF</string>
+    	<string name="screen_down_text">Please hold your phone horizontally and toward upside so that it\'s compass could work. Can\'t determine the direction of the north accurately now.</string>
+    		<string name="no_location_yet">Please wait. Detecting your location...\nOr you can select your city in the Settings.</string>
+    	<string name="default_location_text">Direction of Qibla \nin %s</string>
+	<string name="geo_location_info">Location Data Acquired.</string>
+	<string name="latitude_north">N</string>
+	<string name="latitude_south">S</string>
+	<string name="longitude_east">E</string>
+	<string name="longitude_west">W</string>
+    
+    	<string name="settings_label">Settings</string>
+	<string name="prefs_menu_title">Settings</string>
+	<string name="about_menu_title">About</string>
+    
+</resources>

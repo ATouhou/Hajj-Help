@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!--
+    <color name="login_btn_green">#68953d</color>
+    <color name="login_btn_greenclr">#68953d</color>
+    <color name="white1">#ffffff</color>
+    <color name="scheduleListTextColor1">#68953d</color>
+    <color name="detailscolor1">#68953d</color>
+    -->
+    <color name="window_background">#CC000000</color>
+    <color name="my_primary">#ED1C24</color>
+    <color name="my_primary_dark">#CC0000</color>
+    <color name="my_primary_light">#B3E5FC</color>
+    <color name="my_accent">#FF5722</color>
+    <color name="my_primary_text">#ffffff</color>
+    <color name="my_secondary_text">#ffffff</color>
+    <color name="my_icons">#FFFFFF</color>
+    <color name="my_divider">#B6B6B6</color>
+    <color name="color_primary">#2196F3</color>
+    <color name="color_primary_dark">#1976D2</color>
+    <color name="accent_color">#536DFE</color>
+    <color name="login_btn_blue">#096cb1</color>
+    <color name="login_btn_green_new">#65aa61</color>
+    <color name="login_btn_green">#53a93f</color>
+    <color name="white">#ffffff</color>
+    <color name="scheduleListTextColor">#6a6a6a</color>
+    <color name="dividercolor">#bbbbba</color>
+    <color name="tick_color">#6262be</color>
+    <color name="detailscolor">#2a7db7</color>
+    <color name="survey_layoutgreen">#53a93f</color>
+    <color name="survey_layout_green">#68953d</color>
+    <color name="right_request_color">#e6f8da</color>
+    <color name="right_request_color_old">#ffffd8</color>
+    <color name="left_request_color">#e6f4ff</color>
+    <color name="left_request_color_old">#ededea</color>
+    <color name="list_item_title">#fff</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="genre">#666666</color>
+    <color name="year">#888888</color>
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+
+     <color name="red">#FF0000</color>
+<color name="black">#000000</color>
+<!-- <color name="white">#FFFFFF</color> -->
+<color name="gray">#BBBBBB </color>
+    
+</resources>

@@ -1,0 +1,768 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/homebg"
+    android:orientation="vertical" >
+
+  <android.support.v4.widget.DrawerLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/drawer_layout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+ 
+    <FrameLayout
+        android:id="@+id/content_frame"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+ 
+    <ListView
+        android:id="@+id/left_drawer"
+        android:layout_width="240dp"
+        android:layout_height="match_parent"
+        android:layout_gravity="start"
+        android:background="#111"
+        android:choiceMode="singleChoice"
+        android:divider="@android:color/transparent"
+        android:dividerHeight="0dp" />
+ 
+
+
+    <ScrollView
+        android:id="@+id/scrollView1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical" >
+
+            <LinearLayout
+                android:id="@+id/row1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/hajjguied_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:onClick="btn_Hujjguide"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_hajjgueid"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center_horizontal"
+                        android:background="@drawable/hazzcropped"
+                        android:drawableTop="@drawable/profile"
+                        android:gravity="center"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_hajjgueid"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Hujj Guide"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/umrahgueid_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:onClick="btn_Umrahguide"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_umrah"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/umrahcropped"
+                        android:drawableTop="@drawable/farms"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_umrahgueid"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Umrah Guide"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/prayertimings_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:onClick="btn_PrayerTimings"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_prayertimings"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/prayer"
+                        android:drawableTop="@drawable/crops"
+                        android:paddingTop="15dp" />
+
+                    <TextView
+                        android:id="@+id/tv_prayertimings"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Prayer Timings"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/row2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/quran_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:onClick="btn_Quran"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_quran"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/quran"
+                        android:drawableTop="@drawable/crops"
+                        android:paddingTop="15dp" />
+
+                    <TextView
+                        android:id="@+id/tv_quran"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Quran"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/qiblacompass_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:onClick="btnClick_QiblaCompass"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_qiblacompass"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="1.05"
+                        android:background="@drawable/compass"
+                        android:drawableTop="@drawable/farms"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_qiblacompass"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="0.64"
+                        android:gravity="center"
+                        android:text="Qibla Compass"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/hijricalender_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:onClick="btn_Calender"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_hijricalender"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/calander"
+                        android:drawableTop="@drawable/farms"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_hijricalender"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="15dp"
+                        android:layout_weight="0.64"
+                        android:gravity="center"
+                        android:text="Hijri and Georgian Calender"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/row3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_margin="15dp"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/hajjoperatorinfo_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:layout_weight="1"
+                    android:onClick="btn_hajjinfo"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_hajjoperatorinfo"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center_horizontal"
+                        android:background="@drawable/hoteloperator"
+                        android:drawableTop="@drawable/profile"
+                        android:gravity="center"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_hajjoperatorinfo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Hajj Operator Info"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/hoteloperatorinfo_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:layout_weight="1"
+                    android:onClick="btn_HotelOperatorinfo"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_hoteloperatorinfo"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/hoteloperator"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_hoteloperatorinfo"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Hotel Operator Info"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/quotes_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:onClick="btn_Quotes"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_quotes"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/qutes"
+                        android:drawableTop="@drawable/crops"
+                        android:paddingTop="15dp" />
+
+                    <TextView
+                        android:id="@+id/tv_quotes"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Quotes"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/row4"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:layout_margin="15dp"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/location_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:onClick="btn_Location"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_location"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center_horizontal"
+                        android:background="@drawable/fnf_finder"
+                        android:drawableTop="@drawable/profile"
+                        android:gravity="center"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_location"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Location Status"
+                        android:textColor="#FFFFFF"
+                        android:textSize="15sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/mayihelp_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:onClick="btn_mayIHelpU"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_mayihelp"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/mayihelp"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_mayihelp"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="May i Help You"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/lostnfound_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:onClick="btn_LostnFound"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_lostnfound"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/lostandfound"
+                        android:drawableTop="@drawable/crops"
+                        android:paddingTop="15dp" />
+
+                    <TextView
+                        android:id="@+id/tv_lostnfound"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Loast and Found"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/row5"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/ethasbih_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="fill_parent"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:layout_weight="1"
+                    android:onClick="btn_Ethasbih"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_ethasbih"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/hotelbuildingnavigator"
+                        android:paddingTop="15dp" />
+
+                    <TextView
+                        android:id="@+id/tv_ethasbih"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="E-Thasbih"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/roundcounter_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:onClick="btnClick_TawafRound"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_roundcounter"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="1.05"
+                        android:background="@drawable/tawafroundcounter"
+                        android:drawableTop="@drawable/farms"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_roundcounter"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="0.64"
+                        android:gravity="center"
+                        android:text="Tawaf Round Counter"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/GoodnBad_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:onClick="btn_GoodandBad"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_GoodnBad"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/reviews"
+                        android:drawableTop="@drawable/farms"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_GoodnBad"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="15dp"
+                        android:layout_weight="0.64"
+                        android:gravity="center"
+                        android:text="Good and Bad"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/row6"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/weather_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:layout_weight="1"
+                    android:onClick="btn_Weather"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_weather"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center_horizontal"
+                        android:background="@drawable/weather"
+                        android:drawableTop="@drawable/profile"
+                        android:gravity="center"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_weather"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center_horizontal"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Weather"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/healthtips_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:layout_weight="1"
+                    android:onClick="btn_HealthTips"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_healthtips"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/healthtips"
+                        android:drawableTop="@drawable/farms"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_healthtips"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Health Tips"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/packinglist_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:layout_weight="1"
+                    android:onClick="btn_packingList"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_packinglist"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/todo"
+                        android:drawableTop="@drawable/crops"
+                        android:paddingTop="15dp" />
+
+                    <TextView
+                        android:id="@+id/tv_packinglist"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Packing Llist"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/row7"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_margin="15dp"
+                android:orientation="horizontal" >
+
+                <LinearLayout
+                    android:id="@+id/hotelnavigator_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_marginBottom="10dp"
+                    android:layout_weight="1"
+                    android:onClick="btnClick_HotelNavigator"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_hotelnavigator"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:background="@drawable/camp"
+                        android:paddingTop="15dp" />
+
+                    <TextView
+                        android:id="@+id/tv_hotelnavigator"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:gravity="center"
+                        android:text="Hotel Navigator"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/mina_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center"
+                    android:layout_weight="1"
+                    android:onClick="btnClick_MinaNavigation"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_mina"
+                        android:layout_width="65dp"
+                        android:layout_height="65dp"
+                        android:layout_gravity="center"
+                        android:layout_weight="1.05"
+                        android:background="@drawable/camp"
+                        android:drawableTop="@drawable/farms"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_mina"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:layout_weight="0.64"
+                        android:gravity="center"
+                        android:text="Mina Camp Navigator"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+
+                <LinearLayout
+                    android:id="@+id/arafath_ll"
+                    android:layout_width="0dp"
+                    android:layout_height="120dp"
+                    android:layout_gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:onClick="btn_Arafathnavigation"
+                    android:orientation="vertical" >
+
+                    <TextView
+                        android:id="@+id/icon_arafath"
+                        android:layout_width="50dp"
+                        android:layout_height="50dp"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="10dp"
+                        android:background="@drawable/camp"
+                        android:drawableTop="@drawable/farms"
+                        android:paddingTop="20dp" />
+
+                    <TextView
+                        android:id="@+id/tv_arafath"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_marginTop="15dp"
+                        android:layout_weight="0.64"
+                        android:gravity="center"
+                        android:text="Arafath Camp Navigator"
+                        android:textColor="#FFFFFF"
+                        android:textSize="12sp"
+                        android:textStyle="normal" />
+                </LinearLayout>
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</android.support.v4.widget.DrawerLayout>
+</LinearLayout>

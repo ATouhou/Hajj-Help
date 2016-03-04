@@ -1,0 +1,29 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff"
+    android:gravity="end" >
+
+    <TextView
+        android:id="@+id/tvHead"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="40dp"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif-thin"
+        android:text="Qibla Compass"
+        android:textColor="#007FFF"
+        android:textSize="40sp" />
+
+    <ImageView
+        android:id="@+id/imageViewCompass"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/tvHead"
+        android:layout_margin="10dp"
+        android:layout_marginTop="38dp"
+        android:src="@drawable/qibladirection" />
+
+</RelativeLayout>

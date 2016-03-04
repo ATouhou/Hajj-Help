@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" android:dither="true">
+
+    <item android:drawable="@drawable/forgot_before_click" android:state_window_focused="false"/>
+    <item android:drawable="@drawable/forgot_pressed_click" android:state_pressed="true"/>
+
+</selector>

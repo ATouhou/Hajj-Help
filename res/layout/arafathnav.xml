@@ -1,0 +1,75 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="right" >
+
+    <fragment
+        android:id="@+id/fragment1"
+        android:name="com.google.android.gms.maps.MapFragment"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/layout"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginBottom="-50dp"
+        android:layout_marginLeft="-5dp" />
+
+    <LinearLayout
+        android:id="@+id/layout"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:orientation="horizontal" >
+
+        <Button
+            android:id="@+id/saveLocation"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:text="Save Current Location"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/share"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="Share Current Location"
+            android:textSize="12sp" />
+
+    </LinearLayout>
+
+ <LinearLayout
+     android:id="@+id/layout11"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_alignParentLeft="true"
+     android:layout_alignParentRight="true"
+     android:layout_alignParentTop="true"
+     android:layout_marginTop="50dp"
+     android:gravity="left"
+     android:orientation="horizontal" >
+
+     <EditText
+         android:id="@+id/search"
+         android:layout_width="140dp"
+         android:layout_height="35dp"
+         android:layout_gravity="center"
+         android:layout_weight="0.97"
+         android:gravity="left"
+         android:hint="MakthabNo/CampNo/ArafatName"
+         android:textSize="12sp" />
+
+     <Button
+         android:id="@+id/searchLocation"
+         android:layout_width="90dp"
+         android:layout_height="35dp"
+         android:layout_gravity="center"
+         android:text="Search"
+         android:textSize="14sp" />
+ </LinearLayout>
+
+</RelativeLayout>

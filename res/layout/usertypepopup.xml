@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="30dp"
+        android:gravity="center"
+        android:orientation="vertical" >
+
+        <CheckBox
+            android:id="@+id/cb_piligrim"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:background="@color/left_request_color"
+            android:text="  Piligrim"
+            android:textColor="#FF9800"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/cb_volunteer"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:background="@color/left_request_color"
+            android:text="  Volunteer"
+            android:textColor="#ff9800"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/cb_hoteloperator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="10dp"
+            android:background="@color/left_request_color"
+            android:text="  Hotel Operator"
+            android:textColor="#ff9800"
+            android:textSize="18sp" />
+
+        <CheckBox
+            android:id="@+id/cb_hajjoperator"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:background="@color/left_request_color"
+            android:text="  Hajj Operator"
+            android:textColor="#ff9800"
+            android:textSize="18sp" />
+        
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:orientation="horizontal" >
+
+    </LinearLayout>
+
+        
+
+    </LinearLayout>
+
+
+</LinearLayout>
